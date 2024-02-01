@@ -28,9 +28,6 @@ Leveraged subqueries to perform complex analyses, potentially linking data relat
 
 Tableau Features:
 
-Data Connection:
-
-Connected Tableau to SQL databases to import and visualize HR data.
 
 Data Exploration:
 
@@ -43,10 +40,6 @@ Designed interactive dashboards in Tableau for visual representation of key HR m
 Correlation Analysis:
 
 Used Tableau features for correlation analysis to identify relationships between job satisfaction, job roles, and performance.
-
-Parameterization:
-
-Potentially implemented parameterization in Tableau to allow dynamic adjustments and exploration of Monthly Income vs. Total Working Years.
 
 Data Storytelling:
 
